@@ -1,0 +1,10 @@
+* dragon-drop.el - Drag & Drop with Dragon
+This is a short (one function) library to call the [[https://github.com/mwh/dragon][dragon]] progam.
+
+(NOTE: this program name differs depending on the repository, it is called [[https://aur.archlinux.org/packages/dragon-drop][dragon-drop]] for me in arch linux, the ~dragon-drop-program-name~ variable sets this)
+
+Just bind ~dragon-drop~ to a key you're good to go.
+
+
+
+
